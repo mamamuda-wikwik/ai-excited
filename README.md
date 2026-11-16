@@ -1,8 +1,8 @@
 # Sky Koi - make.fun ai-excited-01
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/c/ai-excited-01)
-[![ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/c/ai-excited-01)
-[![Sky Koi](https://make.fun/badge/sky-koi.svg)](https://make.fun/c/ai-excited-01)
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/mamamuda-wikwik/ai-excited/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/mamamuda-wikwik/ai-excited/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
 A dramatic koi fish leaping diagonally through a vivid sunset sky — bold
 saturated oranges, reds and golds against deep teal-blue water and sky, with
